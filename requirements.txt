@@ -4,3 +4,4 @@ pandas
 numpy
 category_encoders
 imblearn
+xgboost
